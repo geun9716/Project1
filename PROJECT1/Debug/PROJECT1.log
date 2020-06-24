@@ -1,0 +1,13 @@
+﻿  my_assembler_20160262.c
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(187,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(247,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(415,63): warning C4047: '==': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(428,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(612,57): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(692,64): warning C4047: '>=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(692,109): warning C4047: '<=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(738,43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(906,39): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(915,39): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\geun\source\repos\PROJECT1\PROJECT1\my_assembler_20160262.c(926,50): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  PROJECT1.vcxproj -> C:\Users\geun\source\repos\PROJECT1\Debug\PROJECT1.exe
